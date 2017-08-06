@@ -1,2 +1,2 @@
-# Printing hello, world
+# Printing hello, world.
 print("Hello, world")
